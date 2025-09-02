@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Md Shahid Afridi
 
-> [cite_start]A Data Scientist and Machine Learning professional, I recently completed my MS in Big Data Analytics from the Central University of Rajasthan[cite: 39, 40]. [cite_start]With a solid foundation in statistical modeling, predictive analytics, Python, and SQL, I have hands-on experience building data-driven solutions for real-world problems[cite: 8, 9]. [cite_start]My professional experience includes working as a freelance Prompt Engineer for LLM-based AI agent development [cite: 16] [cite_start]and conducting applied research on early Alzheimer's disease detection using MRI data[cite: 26, 44]. [cite_start]I am passionate about transforming complex datasets into actionable insights that support business decision-making and innovation[cite: 10].
+> A Data Scientist and Machine Learning professional, I recently completed my MS in Big Data Analytics from the Central University of Rajasthan. With a solid foundation in statistical modeling, predictive analytics, Python, and SQL, I have hands-on experience building data-driven solutions for real-world problems. My professional experience includes working as a freelance Prompt Engineer for LLM-based AI agent development and conducting applied research on early Alzheimer's disease detection using MRI data. I am passionate about transforming complex datasets into actionable insights that support business decision-making and innovation.
 
 ---
 
@@ -24,31 +24,31 @@
 ### 🚀 My Projects
 
 #### 🧠 Early Alzheimer's Detection using Deep Learning
-* [cite_start]Designed and implemented a custom Convolutional Neural Network (CNN) architecture optimized for small and imbalanced medical imaging datasets[cite: 27].
-* [cite_start]Developed an interactive Streamlit-based web interface for clinicians to upload MRI scans, view predictions, and download PDF reports[cite: 29].
-* [cite_start]Integrated a geolocation-based recommendation system to suggest nearby neurologists and diagnostic centers[cite: 30].
+* Designed and implemented a custom Convolutional Neural Network (CNN) architecture optimized for small and imbalanced medical imaging datasets.
+* Developed an interactive Streamlit-based web interface for clinicians to upload MRI scans, view predictions, and download PDF reports.
+* Integrated a geolocation-based recommendation system to suggest nearby neurologists and diagnostic centers.
 * [➡️ View on GitHub](https://github.com/ms-afridi/your-repo-name-here)
 
 #### 💳 Loan Approval Prediction Using Ensemble Models
-* [cite_start]Designed and deployed a machine learning system using Random Forest and Logistic Regression to predict loan approval outcomes[cite: 73].
-* [cite_start]Applied advanced feature engineering and handled class imbalance to improve model accuracy and fairness[cite: 74].
-* [cite_start]Built a Flask-based interface with a novel rejection reason feature that informs users which parameters caused denial, improving interpretability[cite: 75, 76].
+* Designed and deployed a machine learning system using Random Forest and Logistic Regression to predict loan approval outcomes.
+* Applied advanced feature engineering and handled class imbalance to improve model accuracy and fairness.
+* Built a Flask-based interface with a novel rejection reason feature that informs users which parameters caused denial, improving interpretability.
 * [➡️ View on GitHub](https://github.com/ms-afridi/loan-approval)
 
 #### 📊 HR Analytics Dashboard for Attrition Analysis
-* [cite_start]Designed a dynamic Power BI dashboard to visualize key HR metrics like attrition rate, department-wise turnover, and workforce demographics[cite: 80].
-* [cite_start]Provided actionable insights into resignation trends and retention bottlenecks using statistical aggregation[cite: 81].
-* [cite_start]Enabled HR stakeholders to identify at-risk employee segments for targeted policy intervention[cite: 82].
+* Designed a dynamic Power BI dashboard to visualize key HR metrics like attrition rate, department-wise turnover, and workforce demographics.
+* Provided actionable insights into resignation trends and retention bottlenecks using statistical aggregation.
+* Enabled HR stakeholders to identify at-risk employee segments for targeted policy intervention.
 * [➡️ View on GitHub](https://github.com/ms-afridi/HR-ANALYTICS-DASHBOARD)
 
 ---
 
 ### 🏆 Honours and Awards
-* [cite_start]**Analytix2024** - Central University of Rajasthan [cite: 86]
+* **Analytix2024** - Central University of Rajasthan
 
 ### 🌱 Community Involvement
-* [cite_start]Volunteer English Teacher (Online) at **eVidyaloka Foundation**, contributing to digital education access in underprivileged communities[cite: 92, 93, 95].
-* [cite_start]Actively involved in social work and community support initiatives[cite: 88, 89].
+* Volunteer English Teacher (Online) at **eVidyaloka Foundation**, contributing to digital education access in underprivileged communities.
+* Actively involved in social work and community support initiatives.
 
 ---
 
